@@ -3,3 +3,57 @@ body {
   height: 100%;
   margin: 0;
 }
+
+#container {
+  width: 100%;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+h1 {
+ text-align: center;
+}
+
+#featured-property {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+figcaption {
+  font-size: 12px;
+}
+
+nav {
+  text-align: center;
+}
+
+.squish {
+  padding-bottom: 15px;
+  margin: auto;
+  width: 30%;
+}
+
+.squish2 {
+  margin: auto;
+  width: 30%;
+}
+
+.topBar {
+  padding: 0 10px;
+  background-color: grey;
+}
+
+#details {
+  margin: 0 auto;
+  width: 100%;
+  display:inline-flex;
+text-align: center;
+justify-content:center;
+background-color: red;
+}
+
+.footer {
+  padding: 0 20px;
+}
